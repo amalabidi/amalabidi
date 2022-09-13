@@ -2,7 +2,7 @@
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;Data%20Science%20Enthusiast;Always%20Learning&center=false&width=500&height=50"></a>
  
-## I'm a Software Engineering Student , passionate about learning  new concepts  and I'm open to new opportunities.
+## I'm a Software Engineering Student and data science enthusiast, passionate about learning  new concepts  and I'm open to new opportunities.
 
 ### Languages and Tools:
 
